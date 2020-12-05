@@ -1,4 +1,4 @@
----
+aa662efcf43b7c66ff71d1bdc77979f5---
 title: Reviewing your SSH keys
 intro: 'To keep your credentials secure, you should regularly audit your SSH keys, deploy keys, and review authorized applications that access your {% data variables.product.product_name %} account.'
 redirect_from:
